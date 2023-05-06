@@ -57,7 +57,9 @@ Understand that classic approachs beginning with ChatGPT
 
 [Alpaca](https://github.com/tatsu-lab/stanford_alpaca/) by stanford
 
+### Other Repositories
 
+[MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4#getting-started)
 
-
+[DeepSpeed-Chat](https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat)
 
