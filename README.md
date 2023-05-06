@@ -1,7 +1,11 @@
 # FoundationModelTutorial
-A outline and set of links for beginner to learn about current Foundation Models
+A outline and set of links for beginner to learn about current Foundation Models(FM)
 
 ## Transformers and Attention
+
+Attention machanism serve as the foundamental building block of modern FM. Though in many cases the variation instead of the original degisn is used, but the key idea and main flow remains the same.
+
+### Material
 
 The **[annotated-transformer](https://github.com/harvardnlp/annotated-transformer/tree/master)** by Harvard.
 
@@ -15,13 +19,17 @@ Go through the [codes](https://github.com/harvardnlp/annotated-transformer/blob/
 
 Knowing the famous branchs of Large Language Models(LLM)
 
-[GPT3]()
+### [GPT3]()
 
-[LLaMA](https://ar5iv.labs.arxiv.org/html/2302.13971v1) by Meta
+### [LLaMA](https://ar5iv.labs.arxiv.org/html/2302.13971v1) by Meta
 
 LLaMA used many classic designs. and is released to be one of the currently major branches in reproducing ChatGPT.
 
-### Task
+#### Matrial
+
+See the [paper](https://ar5iv.labs.arxiv.org/html/2302.13971v1) for LLaMA
+
+#### Task
 
 Understanding each module's technique selected by LLaMA, and Taking a note about the data it used.
 
