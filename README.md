@@ -1,4 +1,4 @@
-# FoundationModelTutorial
+# Foundation Model Tutorial
 A outline and set of links for beginner to learn about current Foundation Models(FM)
 
 ## Transformers and Attention
