@@ -33,6 +33,16 @@ See the [paper](https://ar5iv.labs.arxiv.org/html/2302.13971v1) for LLaMA
 
 Understanding each module's technique selected by LLaMA, and Taking a note about the data it used.
 
+### (Optional) Survey
+
+#### Material
+
+Surveys about FM/Large Model, e.g. https://arxiv.org/pdf/2302.09419.pdf
+
+#### Task
+
+Compare your understanding with others. understand ways of categorizing FM and list down the differences between different FM.
+
 ## Instruction Model
 
 ### Classic Instruction
